@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated Computer Science undergraduate with strong hands-on experience in full stack web development and a solid foundation in modern web technologies. I have completed a 6-month Full Stack Web Development internship where I worked on real-world applications, building responsive user interfaces and scalable backend systems. I am skilled in JavaScript, Python, React, Node.js, and database technologies like MongoDB and Firebase, with a good understanding of REST APIs, authentication, and CRUD operations. I enjoy building clean, user-friendly applications, collaborating with teams, and continuously learning new technologies to solve real-world problems effectively.
+I am a motivated Computer Science undergraduate with strong hands-on experience in full stack web development and a solid foundation in modern web technologies. I have completed a 6-month Full Stack Web Development internship where I worked on real-world applications, building responsive user interfaces and scalable backend systems. I am skilled in JavaScript, Python,HTML,CSS and database technologies like sql with a good understanding of REST APIs, authentication, and CRUD operations. I enjoy building clean, user-friendly applications, collaborating with teams, and continuously learning new technologies to solve real-world problems effectively.
 
 
 ## 🌐 Socials:
