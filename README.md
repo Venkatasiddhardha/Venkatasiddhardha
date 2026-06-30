@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated Computer Science undergraduate with strong hands-on experience in full stack web development and a solid foundation in modern web technologies. I have completed a 6-month Full Stack Web Development internship where I worked on real-world applications, building responsive user interfaces and scalable backend systems. I am skilled in JavaScript, Python, HTML, CSS and database technologies like sql with a good understanding of REST APIs, authentication, and CRUD operations. I enjoy building clean, user-friendly applications, collaborating with teams, and continuously learning new technologies to solve real-world problems effectively.
+B.Tech Computer Science (AI & ML) graduate (2026) and Full Stack Developer specializing in building AI-powered, production-ready web applications. Skilled across the stack with Python, Django, React.js, and REST APIs, with strong UI/UX design sensibility (Figma) and hands-on experience in deep learning and computer vision. Shipped 3+ live projects and completed a 6-month development internship. Seeking Full Stack Developer or Associate Software Engineer roles at the intersection of design, engineering, and AI.
 
 
 ## 🌐 Socials:
